@@ -1,0 +1,7 @@
+module AmpSel ( input [7:0] in ,input [1:0] sw65, output reg [7:0] out);
+assign out=in?(sw65==2'd0):
+	(in/2)?(sw65==2'd1):
+	(in/4)?(sw65==2'd2):
+	(in/8)?(sw65==2'd3):in;
+end
+endmodule

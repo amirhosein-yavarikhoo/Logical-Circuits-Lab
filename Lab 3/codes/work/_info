@@ -1,0 +1,485 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/amirh/Downloads/University/Semester 6/DLD Lab/2
+vAmpSel
+Z0 !s110 1684303829
+!i10b 1
+!s100 EloY``bFbQd1>49=k5X<22
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I_k9hAi6TlCKG1eN]YEeH03
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes
+w1684134068
+8C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/AmpSel.v
+FC:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/AmpSel.v
+!i122 715
+Z4 L0 1 6
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1684303829.000000
+!s107 C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/AmpSel.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/AmpSel.v|
+!i113 1
+Z7 o-work work
+Z8 tCvgOpt 0
+n@amp@sel
+vcounter
+Z9 !s110 1684303828
+!i10b 1
+!s100 OYCS0>FcVWg47DGdlHQ=40
+R1
+IfWh_Zll2YzGWeC<ej8dAA1
+R2
+R3
+w1683092313
+8C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/counter.v
+FC:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/counter.v
+!i122 706
+R4
+R5
+r1
+!s85 0
+31
+Z10 !s108 1684303828.000000
+!s107 C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/counter.v|
+!i113 1
+R7
+R8
+vcounterTB
+R9
+!i10b 1
+!s100 c75;YXF6K?@>4moM8<mMO3
+R1
+I;LfkjG8o5XKj@[bDPFi7_3
+R2
+R3
+w1683090501
+8C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/counterTB.v
+FC:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/counterTB.v
+!i122 707
+L0 2 16
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/counterTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/counterTB.v|
+!i113 1
+R7
+R8
+ncounter@t@b
+vDDS
+R9
+!i10b 1
+!s100 I1jL=^<8_@Peh35;<fMMV0
+R1
+IPG?F5Uf5MS]FeYcO_?GA01
+R2
+R3
+w1683698484
+8C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/DDS.vo
+FC:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/DDS.vo
+!i122 712
+L0 32 590
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/DDS.vo|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/DDS.vo|
+!i113 1
+R7
+R8
+n@d@d@s
+vDDSTB
+R9
+!i10b 1
+!s100 GjBX?_UYc2oCLeFIGIMH;1
+R1
+IkP=a^O3d@9:ElI3hoLTAH2
+R2
+R3
+w1683699449
+8C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/DDSTB.v
+FC:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/DDSTB.v
+!i122 711
+L0 2 13
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/DDSTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/DDSTB.v|
+!i113 1
+R7
+R8
+n@d@d@s@t@b
+vfreq_sel
+!s110 1684310063
+!i10b 1
+!s100 W>eR>e4PiN:La5h?Nan:c1
+R1
+I^QzXHMY0i0G;3O9d;eO1n0
+R2
+R3
+w1684310059
+8C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/freq_sel.v
+FC:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/freq_sel.v
+!i122 721
+L0 1 12
+R5
+r1
+!s85 0
+31
+!s108 1684310063.000000
+!s107 C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/freq_sel.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/freq_sel.v|
+!i113 1
+R7
+R8
+vfreqTB
+R0
+!i10b 1
+!s100 Ac8KGfcRiOeV`In1AoaWe0
+R1
+I;28@Q1=eiZAJmh<;z@@=a3
+R2
+R3
+w1683700626
+Z11 8C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/freq_TB.v
+Z12 FC:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/freq_TB.v
+!i122 714
+Z13 L0 2 19
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/freq_TB.v|
+Z14 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/freq_TB.v|
+!i113 1
+R7
+R8
+nfreq@t@b
+vfreqTB22
+!s110 1684310131
+!i10b 1
+!s100 NT9zICzc1c5Yz@o6]QY_V1
+R1
+I8HWOY:hRbnj4O]C2`R3n@1
+R2
+R3
+w1684310128
+R11
+R12
+!i122 722
+R13
+R5
+r1
+!s85 0
+31
+!s108 1684310131.000000
+Z15 !s107 C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/freq_TB.v|
+R14
+!i113 1
+R7
+R8
+nfreq@t@b22
+vhandrom
+R9
+!i10b 1
+!s100 _;Wd:W5E@<3I1WBZ`1VF`1
+R1
+I^zHoeeUi[FWdFU75Gjeo91
+R2
+R3
+w1683697095
+8C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/handrom.v
+FC:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/handrom.v
+!i122 710
+L0 1 11
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/handrom.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/handrom.v|
+!i113 1
+R7
+R8
+vhard_block
+R0
+!i10b 1
+!s100 kO69DK4PJW^gzDBcfcg`B1
+R1
+ImdD2o4S0l1;iS]7`j?h?i3
+R2
+R3
+Z16 w1684302344
+Z17 8C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/LAB3final.vo
+Z18 FC:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/LAB3final.vo
+!i122 719
+L0 7221 34
+R5
+r1
+!s85 0
+31
+R6
+Z19 !s107 C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/LAB3final.vo|
+Z20 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/LAB3final.vo|
+!i113 1
+R7
+R8
+vLAB3final
+R0
+!i10b 1
+!s100 ?JoYn9PMjeXjcWPBXbh3h2
+R1
+ImNRdS;[BNb]>omPj5EaHn0
+R2
+R3
+R16
+R17
+R18
+!i122 719
+L0 32 7188
+R5
+r1
+!s85 0
+31
+R6
+R19
+R20
+!i113 1
+R7
+R8
+n@l@a@b3final
+vmux
+R0
+!i10b 1
+!s100 3894nA;YWnFzlnd?E[[:a1
+R1
+I3b?01?QbDzZ_IQ30L]>LX0
+R2
+R3
+w1684126331
+8C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/mux.v
+FC:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/mux.v
+!i122 716
+L0 1 10
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/mux.v|
+!i113 1
+R7
+R8
+vPWM
+R0
+!i10b 1
+!s100 ja11dz]mPohX]o;0z7X:L2
+R1
+I6?:]ScKh??Bc4_nM7fka`3
+R2
+R3
+w1684303825
+8C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/PWM.v
+FC:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/PWM.v
+!i122 720
+L0 1 8
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/PWM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/PWM.v|
+!i113 1
+R7
+R8
+n@p@w@m
+vROM1
+!s110 1683693267
+!i10b 1
+!s100 P1L]U;GMKEdeI4S5hTRN90
+R1
+I1^i@VnEGj]ZQHQi;;1:g51
+R2
+R3
+w1683098602
+8C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/ROMq.v
+FC:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/ROMq.v
+!i122 206
+L0 40 62
+R5
+r1
+!s85 0
+31
+!s108 1683693267.000000
+!s107 C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/ROMq.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/ROMq.v|
+!i113 1
+R7
+R8
+n@r@o@m1
+vRomQ
+!s110 1683694796
+!i10b 1
+!s100 _4m8B]AijmTZeE@B80mcZ2
+R1
+IQ_Z[<o;817CVj0LA6Y2`>1
+R2
+R3
+w1683694619
+8C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/RomQ_bb.v
+FC:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/RomQ_bb.v
+!i122 212
+Z21 L0 35 17
+R5
+r1
+!s85 0
+31
+!s108 1683694796.000000
+!s107 C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/RomQ_bb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/RomQ_bb.v|
+!i113 1
+R7
+R8
+n@rom@q
+vROMq
+!s110 1683698520
+!i10b 1
+!s100 >4Z8:II1U97I[]]6gSSOj0
+R1
+ITkB5DKHCRYWFC8`P3P^?80
+R2
+R3
+w1683695895
+8C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/ROMq_bb.v
+FC:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/ROMq_bb.v
+!i122 249
+R21
+R5
+r1
+!s85 0
+31
+!s108 1683698520.000000
+!s107 C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/ROMq_bb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/ROMq_bb.v|
+!i113 1
+R7
+R8
+n@r@o@mq
+vwave_gen
+R9
+!i10b 1
+!s100 71nCU^_Uda]mHHX1bZ[dk2
+R1
+IGVJAUHnJ=N344gVf1TRJ]1
+R2
+R3
+w1683701788
+8C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/wave_gen.v
+FC:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/wave_gen.v
+!i122 708
+L0 1 40
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/wave_gen.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/wave_gen.v|
+!i113 1
+R7
+R8
+vwave_TB
+R9
+!i10b 1
+!s100 `bKmJMCf`XQ`F72nS9J^c3
+R1
+IP7k7blOY4`4972c@z;z`V0
+R2
+R3
+w1683701802
+8C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/wave_genTB.v
+FC:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/wave_genTB.v
+!i122 709
+L0 2 17
+R5
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/wave_genTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/wave_genTB.v|
+!i113 1
+R7
+R8
+nwave_@t@b
+vWaveGenComp
+R0
+!i10b 1
+!s100 Q?BfBh=DeIR<oS_9Zj@MI0
+R1
+I5d_C]WgHz2hXOVnaahVm;2
+R2
+R3
+w1683702987
+8C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/WaveGenCompl.v
+FC:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/WaveGenCompl.v
+!i122 717
+L0 1 7
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/WaveGenCompl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/WaveGenCompl.v|
+!i113 1
+R7
+R8
+n@wave@gen@comp
+vWGCTB
+R0
+!i10b 1
+!s100 bT6W8N:FB4RHWG^fhTIHb0
+R1
+I[aMYnC^kAk3@iA<:<ncV=0
+R2
+R3
+w1684303459
+8C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/WGCTB.v
+FC:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/WGCTB.v
+!i122 718
+L0 2 35
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/WGCTB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/WGCTB.v|
+!i113 1
+R7
+R8
+n@w@g@c@t@b

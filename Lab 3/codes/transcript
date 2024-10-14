@@ -1,0 +1,390 @@
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# 10 compiles, 0 failed with no errors.
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of exp_TB.v failed with 1 errors.
+# 11 compiles, 1 failed with 1 error.
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of exp_TB.v failed with 1 errors.
+# 11 compiles, 1 failed with 1 error.
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of exp_TB.v failed with 1 errors.
+# 11 compiles, 1 failed with 1 error.
+# Compile of exp_TB.v was successful.
+# Compile of exp_TB.v was successful.
+# Compile of exp_TB.v was successful.
+vsim -gui work.expoTB
+# vsim -gui work.expoTB 
+# Start time: 08:25:59 on May 24,2023
+# Loading work.expoTB
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# ** Error (suppressible): (vsim-3009) [TSCALE] - Module 'expoTB' does not have a timeunit/timeprecision specification in effect, but other modules do.
+#    Time: 0 ps  Iteration: 0  Instance: /expoTB/UUT/dP/regx File: C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/expo_engine/register.v
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+# Error loading design
+# End time: 08:26:00 on May 24,2023, Elapsed time: 0:00:01
+# Errors: 1, Warnings: 14
+# Compile of exp_TB.v was successful.
+vsim -gui work.expoTB
+# vsim -gui work.expoTB 
+# Start time: 08:26:20 on May 24,2023
+# Loading work.expoTB
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+# Trace back: Error QStructure::sort: invalid command name ""
+#   <6:C:/mtitcl/vsim/qstructure.tc_:2478: ::QStructure::sort .main_pane.structure 0 ascending
+#   <5:eval:1: ::QStructure::structsort .main_pane.structure 0 ascending
+#   <4:eval:1: ::namespace inscope ::QStructure {structsort .main_pane.structure} 0 ascending
+#   >3:proc:26: ::.main_pane.structure.interior.cs.body.struct sort 0 ascending
+#   >2:proc:10: ::.main_pane.structure.interior.cs.body.struct _initializeSortColumn
+#   <1:eval:1: ::namespace inscope ::vsimwidgets::Hierarchy {::.main_pane.structure.interior.cs.body.struct _initializeSortColumn}
+add wave -position insertpoint  \
+sim:/expoTB/clk \
+sim:/expoTB/done \
+sim:/expoTB/frac \
+sim:/expoTB/int \
+sim:/expoTB/rst \
+sim:/expoTB/start \
+sim:/expoTB/x
+run -all
+quit -sim
+# End time: 08:27:16 on May 24,2023, Elapsed time: 0:00:56
+# Errors: 0, Warnings: 2
+vsim -gui work.expoTB
+# vsim -gui work.expoTB 
+# Start time: 08:27:31 on May 24,2023
+# Loading work.expoTB
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+add wave -position insertpoint  \
+sim:/expoTB/clk \
+sim:/expoTB/done \
+sim:/expoTB/frac \
+sim:/expoTB/int \
+sim:/expoTB/rst \
+sim:/expoTB/start \
+sim:/expoTB/x
+run -all
+quit -sim
+# End time: 08:28:31 on May 24,2023, Elapsed time: 0:01:00
+# Errors: 0, Warnings: 1
+# Compile of exp_TB.v was successful.
+vsim -gui work.expoTB
+# vsim -gui work.expoTB 
+# Start time: 08:28:57 on May 24,2023
+# Loading work.expoTB
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+add wave -position insertpoint  \
+sim:/expoTB/clk \
+sim:/expoTB/done \
+sim:/expoTB/frac \
+sim:/expoTB/int \
+sim:/expoTB/rst \
+sim:/expoTB/start \
+sim:/expoTB/x
+run -all
+quit -sim
+# End time: 08:29:16 on May 24,2023, Elapsed time: 0:00:19
+# Errors: 0, Warnings: 2
+# Compile of exp_TB.v was successful.
+vsim -gui work.expoTB
+# vsim -gui work.expoTB 
+# Start time: 08:29:40 on May 24,2023
+# Loading work.expoTB
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+add wave -position insertpoint  \
+sim:/expoTB/clk \
+sim:/expoTB/done \
+sim:/expoTB/frac \
+sim:/expoTB/int \
+sim:/expoTB/rst \
+sim:/expoTB/start \
+sim:/expoTB/x
+run -all
+quit -sim
+# End time: 08:30:20 on May 24,2023, Elapsed time: 0:00:40
+# Errors: 0, Warnings: 2
+# Compile of exp_TB.v was successful.
+vsim -gui work.expoTB
+# vsim -gui work.expoTB 
+# Start time: 08:31:03 on May 24,2023
+# Loading work.expoTB
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+add wave -position insertpoint  \
+sim:/expoTB/clk \
+sim:/expoTB/done \
+sim:/expoTB/frac \
+sim:/expoTB/int \
+sim:/expoTB/rst \
+sim:/expoTB/start \
+sim:/expoTB/x
+run -all
+quit -sim
+# End time: 08:31:44 on May 24,2023, Elapsed time: 0:00:41
+# Errors: 0, Warnings: 2
+# Load canceled
+# Compile of exp_TB.v was successful.
+vsim -gui work.expoTB
+# vsim -gui work.expoTB 
+# Start time: 08:32:21 on May 24,2023
+# Loading work.expoTB
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+add wave -position insertpoint  \
+sim:/expoTB/clk \
+sim:/expoTB/done \
+sim:/expoTB/frac \
+sim:/expoTB/int \
+sim:/expoTB/rst \
+sim:/expoTB/start \
+sim:/expoTB/x
+run -all
+quit -sim
+# End time: 08:32:46 on May 24,2023, Elapsed time: 0:00:25
+# Errors: 0, Warnings: 2
+vsim -gui work.exponential
+# vsim -gui work.exponential 
+# Start time: 08:33:16 on May 24,2023
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+quit -sim
+# End time: 08:33:24 on May 24,2023, Elapsed time: 0:00:08
+# Errors: 0, Warnings: 1
+vsim -gui work.expoTB
+# vsim -gui work.expoTB 
+# Start time: 08:33:31 on May 24,2023
+# Loading work.expoTB
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+add wave -position insertpoint  \
+sim:/expoTB/clk \
+sim:/expoTB/done \
+sim:/expoTB/frac \
+sim:/expoTB/int \
+sim:/expoTB/rst \
+sim:/expoTB/start \
+sim:/expoTB/x
+run -all
+quit -sim
+# End time: 08:35:43 on May 24,2023, Elapsed time: 0:02:12
+# Errors: 0, Warnings: 1
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of exp_TB.v failed with 1 errors.
+# 11 compiles, 1 failed with 1 error.
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of exp_TB.v was successful.
+# 11 compiles, 0 failed with no errors.
+vsim -gui work.expoTB
+# vsim -gui work.expoTB 
+# Start time: 08:36:49 on May 24,2023
+# Loading work.expoTB
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+add wave -position insertpoint  \
+sim:/expoTB/clk \
+sim:/expoTB/done \
+sim:/expoTB/frac \
+sim:/expoTB/int \
+sim:/expoTB/rst \
+sim:/expoTB/start \
+sim:/expoTB/x
+run -all
+quit -sim
+# End time: 08:39:27 on May 24,2023, Elapsed time: 0:02:38
+# Errors: 0, Warnings: 3
+# Compile of exp_TB.v was successful.
+vsim -gui work.expoTB
+# vsim -gui work.expoTB 
+# Start time: 08:40:11 on May 24,2023
+# Loading work.expoTB
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+add wave -position insertpoint  \
+sim:/expoTB/clk \
+sim:/expoTB/done \
+sim:/expoTB/frac \
+sim:/expoTB/int \
+sim:/expoTB/rst \
+sim:/expoTB/start \
+sim:/expoTB/x
+run -all
+# WARNING: No extended dataflow license exists
+quit -sim
+# End time: 08:50:43 on May 24,2023, Elapsed time: 0:10:32
+# Errors: 0, Warnings: 2
+# reading C:/intelFPGA/20.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project SOC
+# Compile of onepulser.v was successful.
+# Compile of onepulser.v was successful.
+# Compile of ShiftComb.v was successful.
+# Compile of shiftReg.v was successful.
+# Compile of uiReg.v was successful.
+# 4 compiles, 0 failed with no errors.
+# Compile of onepulser.v was successful.
+# Compile of ShiftComb.v was successful.
+# Compile of shiftReg.v was successful.
+# Compile of uiReg.v was successful.
+# Compile of shiftRegTB.v was successful.
+# 5 compiles, 0 failed with no errors.
+# Compile of onepulser.v was successful.
+# Compile of ShiftComb.v was successful.
+# Compile of shiftReg.v was successful.
+# Compile of uiReg.v was successful.
+# Compile of shiftRegTB.v was successful.
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exp_TB.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# 16 compiles, 0 failed with no errors.
+# Break key hit

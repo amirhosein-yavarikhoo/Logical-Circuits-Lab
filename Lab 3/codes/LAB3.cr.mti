@@ -1,0 +1,108 @@
+{C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/counterTB.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/counterTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counterTB
+
+Top level modules:
+	counterTB
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/freq_sel.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/freq_sel.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module freq_sel
+
+Top level modules:
+	freq_sel
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/handrom.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/handrom.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module handrom
+
+Top level modules:
+	handrom
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/wave_genTB.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/wave_genTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module wave_TB
+
+Top level modules:
+	wave_TB
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/LAB3final.vo} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/LAB3final.vo}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module LAB3final
+-- Compiling module hard_block
+
+Top level modules:
+	LAB3final
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/freq_TB.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/freq_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module freqTB22
+
+Top level modules:
+	freqTB22
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/PWM.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/PWM.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module PWM
+
+Top level modules:
+	PWM
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/WGCTB.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/WGCTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module WGCTB
+
+Top level modules:
+	WGCTB
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/WaveGenCompl.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/WaveGenCompl.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module WaveGenComp
+
+Top level modules:
+	WaveGenComp
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/counter.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/DDSTB.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/DDSTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DDSTB
+
+Top level modules:
+	DDSTB
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/DDS.vo} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/DDS.vo}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DDS
+-- Compiling module hard_block
+
+Top level modules:
+	DDS
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/AmpSel.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/AmpSel.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module AmpSel
+
+Top level modules:
+	AmpSel
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/mux.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/mux.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/wave_gen.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/3/codes/wave_gen.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module wave_gen
+
+Top level modules:
+	wave_gen
+
+} {} {}}
