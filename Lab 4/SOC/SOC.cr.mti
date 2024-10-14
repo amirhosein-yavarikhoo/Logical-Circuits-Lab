@@ -1,0 +1,141 @@
+{C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/wrapper_TB.v} {1 {vlog -work work -stats=none {C:\Users\amirh\Downloads\University\Semester 6\DLD Lab\4\SOC\wrapper_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module wrapperTB
+
+Top level modules:
+	wrapperTB
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/Datapath.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/Datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/adder.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/wrapper.v} {1 {vlog -work work -stats=none {C:\Users\amirh\Downloads\University\Semester 6\DLD Lab\4\SOC\wrapper.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module wrapper
+
+Top level modules:
+	wrapper
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/shiftRegTB.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/shiftRegTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shiftRegTB
+
+Top level modules:
+	shiftRegTB
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/exp_TB.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/exp_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module expoTB
+
+Top level modules:
+	expoTB
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/uiReg.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/uiReg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/register.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/register18.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/register18.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register18
+
+Top level modules:
+	register18
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/ShiftComb.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/ShiftComb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shiftComb
+
+Top level modules:
+	shiftComb
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/multiplier.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/multiplier.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/exponential.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/exponential.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module exponential
+
+Top level modules:
+	exponential
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/Counter.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/Counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/mux2to1.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/mux2to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2to1
+
+Top level modules:
+	mux2to1
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/LUTExp.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/LUTExp.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module LUT
+
+Top level modules:
+	LUT
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/controller_wrapper.v} {1 {vlog -work work -stats=none {C:\Users\amirh\Downloads\University\Semester 6\DLD Lab\4\SOC\controller_wrapper.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module wrapper_cu
+
+Top level modules:
+	wrapper_cu
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/shiftReg.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/shiftReg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shiftReg
+
+Top level modules:
+	shiftReg
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/Controller.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/Controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/2bcounter.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/2bcounter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module twocounter
+
+Top level modules:
+	twocounter
+
+} {} {}} {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/onepulser.v} {1 {vlog -work work -stats=none {C:/Users/amirh/Downloads/University/Semester 6/DLD Lab/4/SOC/onepulser.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module one_pulser
+
+Top level modules:
+	one_pulser
+
+} {} {}}
